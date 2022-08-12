@@ -1,1 +1,1 @@
-# ztm-web-dev-project-1
+Simple landing page using: HTML, CSS, Bootstrap, Mailchimp
